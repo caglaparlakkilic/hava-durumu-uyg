@@ -1,0 +1,30 @@
+[
+    {
+        "city_id": 325363,
+        "city_name": "Adana",
+        "state_code": "81",
+        "country_code": "TR",
+        "country_full": "Turkey",
+        "lon": 35.32889,
+        "lat": 37.00167
+    },
+    {
+        "city_id": 325363,
+        "city_name": "Ankara",
+        "state_code": "68",
+        "country_code": "TR",
+        "country_full": "Turkey",
+        "lon": 32.85427,
+        "lat": 39.91987
+    },
+    {
+        "city_id": 745044,
+        "city_name": "İstanbul",
+        "state_code": "34",
+        "country_code": "TR",
+        "country_full": "Turkey",
+        "lon": 28.94966,
+        "lat": 41.01384
+    }
+
+]
